@@ -23,11 +23,15 @@ This repository should be remembered，because this is my first step to a bright
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 5b06ec5... 5
 
 # 链接
 [这里是百度](www.baidu.com)
 =======
 >>>>>>> parent of 401ff55... 3
+<<<<<<< HEAD
 =======
 #链接
 # 链接
@@ -36,3 +40,5 @@ This repository should be remembered，because this is my first step to a bright
 #链接
 # 链接
 >>>>>>> parent of 2607495... 4
+=======
+>>>>>>> parent of 5b06ec5... 5
