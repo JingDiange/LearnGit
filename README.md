@@ -22,11 +22,16 @@ This repository should be remembered，because this is my first step to a bright
 <<<<<<< HEAD
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # 链接
 [这里是百度](www.baidu.com)
 =======
 >>>>>>> parent of 401ff55... 3
+=======
+#链接
+# 链接
+>>>>>>> parent of 2607495... 4
 =======
 #链接
 # 链接
